@@ -1,2 +1,2 @@
-# crypto_zombies_practice
+# crypto_zombies
 a solidity practice project
